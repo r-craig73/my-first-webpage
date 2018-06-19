@@ -1,23 +1,23 @@
-#My First Web Page
+# my-first-webpage
+### Ver.1.01 01/02/2018
 
-#### A web page Ver.1.01 01/02/2018
+## GitHub repository: https://github.com/r-craig73/my-first-webpage
 
-#### Ron Craig & David X.
+#### by Ron Craig (ron.craig@comcast.net) & David Lewis
 
-## A web site bragging about silly stuff
+## Description
+* An Epicodus Intro to Programming lesson.
+* A web site bragging about silly stuff. Practicing building a website using two HTML files: `my-first-webpage.html` and `index.html`.
 
-## Open the web site on Chrome or any other browser app
+## Setup
+* Clone the repository.
+* Open the `my-first-webpage.html` page using Chrome or any other browser application.
 
-## Know Bug Issue.
-### None, as far as I Know
+## Known Bug Issues
+* None at the moment.
 
-## Support and Contact
-### ron.craig@comcast.net
-#### or meet in person
+### Technologies Used
+* HTML, Atom text editor and Github
 
-## Technologies used
-###Apple Computer
-
-### Licensed under GPL
-
-copyright 2018 Ron Craig & David X.
+### MIT License
+copyright (c) 2018 _Ron Craig & David Lewis_
